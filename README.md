@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poorvirathore5" alt="poorvirathore5" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning projects**
+- 🔭 I’m currently working on **Data Science & Machine Learning**
 
-- 🌱 I’m currently learning **codings**
+- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision &Full stack Web Development**
 
 - 👨‍💻 All of my projects are available at [github/linkedin](github/linkedin)
 
