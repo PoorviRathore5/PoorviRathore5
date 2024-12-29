@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Science & Machine Learning**
 
-- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision &Full stack Web Development**
+- 🌱 I’m currently learning **Deep Learning, NLP, Computer Vision**
 
 - 👨‍💻 All of my projects are available at [github/linkedin](github/linkedin)
 
